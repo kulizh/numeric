@@ -41,7 +41,7 @@ def translate(num):
         return numeric
 
 
-# main function that returns solution
+# main function that return solution
 def answer(number=None):
     try:
         if number == None:
@@ -55,6 +55,8 @@ def answer(number=None):
     else:
         return translate(number)
 
+
+print(answer())
 
 # unit-tests
 class MyTests(unit.TestCase):
