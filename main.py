@@ -41,7 +41,7 @@ def translate(num):
         return numeric
 
 
-# main function that return solution
+# main function that returns solution
 def answer(number=None):
     try:
         if number == None:
