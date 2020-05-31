@@ -1,7 +1,7 @@
 # Roman Numerals
 Converts numbers to numerals.
 
-# Autor 
+# Author 
 Nikita Kulizhnikov
 
 # File list
